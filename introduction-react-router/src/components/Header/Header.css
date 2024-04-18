@@ -1,0 +1,9 @@
+nav a.active{
+    text-decoration: underline;
+    color: peru;
+}
+nav a:hover{
+    background-color: rgba(128, 128, 128, 0.281);
+    padding:0 4px;
+    
+}

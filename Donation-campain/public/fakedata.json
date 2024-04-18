@@ -1,0 +1,180 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "date_of_birth": "1985-08-15",
+      "blood_type": "O+",
+      "height": "175 cm",
+      "weight": "75 kg",
+      "allergies": ["Penicillin", "Peanuts"],
+      "conditions": ["Hypertension", "Type 2 Diabetes"],
+      "medications": [
+        {
+          "name": "Metformin",
+          "dosage": "500 mg",
+          "frequency": "Twice daily"
+        },
+        {
+          "name": "Lisinopril",
+          "dosage": "10 mg",
+          "frequency": "Once daily"
+        }
+      ],
+      "emergency_contacts": [
+        {
+          "name": "Jane Doe",
+          "relationship": "Spouse",
+          "phone": "+1234567890"
+        },
+        {
+          "name": "Michael Smith",
+          "relationship": "Friend",
+          "phone": "+1987654321"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Alice Johnson",
+      "date_of_birth": "1990-03-22",
+      "blood_type": "AB-",
+      "height": "160 cm",
+      "weight": "55 kg",
+      "allergies": ["None"],
+      "conditions": ["Asthma"],
+      "medications": [
+        {
+          "name": "Albuterol",
+          "dosage": "2 puffs",
+          "frequency": "As needed"
+        }
+      ],
+      "emergency_contacts": [
+        {
+          "name": "Bob Johnson",
+          "relationship": "Brother",
+          "phone": "+1122334455"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "date_of_birth": "1990-03-22",
+      "blood_type": "AB-",
+      "height": "160 cm",
+      "weight": "55 kg",
+      "allergies": ["None"],
+      "conditions": ["Asthma"],
+      "medications": [
+        {
+          "name": "Albuterol",
+          "dosage": "2 puffs",
+          "frequency": "As needed"
+        }
+      ],
+      "emergency_contacts": [
+        {
+          "name": "Bob Johnson",
+          "relationship": "Brother",
+          "phone": "+1122334455"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "name": "Alice Johnson",
+      "date_of_birth": "1990-03-22",
+      "blood_type": "AB-",
+      "height": "160 cm",
+      "weight": "55 kg",
+      "allergies": ["None"],
+      "conditions": ["Asthma"],
+      "medications": [
+        {
+          "name": "Albuterol",
+          "dosage": "2 puffs",
+          "frequency": "As needed"
+        }
+      ],
+      "emergency_contacts": [
+        {
+          "name": "Bob Johnson",
+          "relationship": "Brother",
+          "phone": "+1122334455"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Alice Johnson",
+      "date_of_birth": "1990-03-22",
+      "blood_type": "AB-",
+      "height": "160 cm",
+      "weight": "55 kg",
+      "allergies": ["None"],
+      "conditions": ["Asthma"],
+      "medications": [
+        {
+          "name": "Albuterol",
+          "dosage": "2 puffs",
+          "frequency": "As needed"
+        }
+      ],
+      "emergency_contacts": [
+        {
+          "name": "Bob Johnson",
+          "relationship": "Brother",
+          "phone": "+1122334455"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "name": "Alice Johnson",
+      "date_of_birth": "1990-03-22",
+      "blood_type": "AB-",
+      "height": "160 cm",
+      "weight": "55 kg",
+      "allergies": ["None"],
+      "conditions": ["Asthma"],
+      "medications": [
+        {
+          "name": "Albuterol",
+          "dosage": "2 puffs",
+          "frequency": "As needed"
+        }
+      ],
+      "emergency_contacts": [
+        {
+          "name": "Bob Johnson",
+          "relationship": "Brother",
+          "phone": "+1122334455"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Alice Johnson",
+      "date_of_birth": "1990-03-22",
+      "blood_type": "AB-",
+      "height": "160 cm",
+      "weight": "55 kg",
+      "allergies": ["None"],
+      "conditions": ["Asthma"],
+      "medications": [
+        {
+          "name": "Albuterol",
+          "dosage": "2 puffs",
+          "frequency": "As needed"
+        }
+      ],
+      "emergency_contacts": [
+        {
+          "name": "Bob Johnson",
+          "relationship": "Brother",
+          "phone": "+1122334455"
+        }
+      ]
+    }
+]
